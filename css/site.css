@@ -4,7 +4,9 @@
     --dark-color: #292929;
     --white-color: #dff3e4;
 }
-
+thead {
+    background-color: var(--primary-color);
+}
 body {
     color: var(--dark-color);
 }
